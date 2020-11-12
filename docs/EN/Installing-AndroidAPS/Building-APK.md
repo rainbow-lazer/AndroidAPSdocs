@@ -164,7 +164,7 @@ On the Android Studio welcome screen click the small triangle (1. in next screen
 
 ## Download Android SDK
 
-* Click File > Settings.
+* Click File > Settings. (On Mac, click Android Studio > Preferences...)
 
    ![Open settings](../images/AndroidStudio361_20.png)
 
